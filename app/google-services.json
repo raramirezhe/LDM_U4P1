@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927176923445",
+    "project_id": "unidad4-d4cb8",
+    "storage_bucket": "unidad4-d4cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927176923445:android:ef4ddf09ba15bd2a82947c",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ldm_u4_practica1_autocontestadora_ramnramrez_marioavalos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927176923445-ovm7tdcc22nkjf3opnvnd2rr8a79ksil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIDXc1qJ4pSRoG6dUyoqHzxjg_5jfXgNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927176923445-ovm7tdcc22nkjf3opnvnd2rr8a79ksil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
